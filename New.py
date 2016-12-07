@@ -8,3 +8,10 @@ class Imagen():
         pass
     def binario(self):
         pass
+class Sonido():
+    def reproducir(self):
+        pass
+    def volumen(self):
+        pass
+    def fourier(self):
+        pass
