@@ -15,3 +15,8 @@ class Sonido():
         pass
     def fourier(self):
         pass
+class Cool():
+    def Nice(self):
+        print("So nice")
+    def love(self):
+        print("<3")
